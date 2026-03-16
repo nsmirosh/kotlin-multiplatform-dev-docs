@@ -258,7 +258,7 @@ Free
 </td>
 <td>
 
-[KMP for Android Developers](https://nsmirosh.gumroad.com/l/tmmqwa)
+[KMP for Android Developers](https://learnkmp.com/)
 
 Video course
 
@@ -266,15 +266,16 @@ Video course
 <td>
 Mykola Miroshnychenko
 
-Gumroad
+Teachable
 </td>
 
 <td>
-How to extend your existing Android development skills to iOS by mastering KMP fundamentals like expect/actual and source sets,
-as well as building a complete app stack using modern libraries like Ktor for networking and Room for persistence.
+Extend your Android development skills to iOS using Kotlin Multiplatform.
+
+Learn core KMP concepts like source sets, targets and expect/actual. Build a complete multiplatform application using modern tools such as Ktor for networking, Koin for dependency injection, Room for persistence, and testing practices for shared code.
 </td>
 <td>
-~$60
+$79
 </td>
 <td>
 8–12 h
